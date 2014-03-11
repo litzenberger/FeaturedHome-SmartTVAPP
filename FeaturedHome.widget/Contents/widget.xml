@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+    <name>Solid Earth App</name>
+    <version>1.6.0</version>
+    <identifier>com.solidearth.tv.boardApp</identifier>
+    <author name="" organization="Yahoo!" href="http://connectedtv.yahoo.com"/>
+    <copyright>2014 Ron Solid Earth</copyright>
+    <description></description>
+    <platform minVersion="4.6.1" />
+	<settings>
+		<setting name="debug" value="off"/>
+        <setting name="allowCustomObjectAttributes" value="true"/>
+	</settings>
+    <security>
+        <http>all</http>
+    </security>
+    <image usage="1920x1080.icon" src="image/1920x1080/application-icon.png"/>
+    <image usage="1920x1080.logo" src="image/1920x1080/application-logo.png"/>
+	<image usage="1920x1080.loading.snippet" src="image/1920x1080/application-loader.png"/>
+    <image usage="960x540.icon" src="image/960x540/application-icon.png"/>
+    <image usage="960x540.logo" src="image/960x540/application-logo.png"/>
+	<image usage="960x540.loading.snippet" src="image/960x540/application-loader.png"/>
+</metadata>
